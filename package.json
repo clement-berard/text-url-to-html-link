@@ -1,0 +1,13 @@
+{
+  "name": "text-url-to-html-link",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/index.ts --no-source-maps --target node",
+    "dev": "parcel src/index.ts --target node"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}

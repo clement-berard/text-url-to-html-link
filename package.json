@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clement-berard/text-url-to-html-link.git"
+  },
+  "keywords": [
+    "sed",
+    "url",
+    "link",
+    "replace",
+    "text"
+  ],
+  "author": "Clement BERARD",
   "scripts": {
     "build": "parcel build src/index.ts --no-source-maps --target node",
     "dev": "parcel src/index.ts --target node"

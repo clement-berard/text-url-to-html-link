@@ -1,4 +1,12 @@
 # text-url-to-html-link
+<p align="center">  
+    <a href="https://www.npmjs.com/package/text-url-to-html-link">
+        <img src="https://img.shields.io/npm/v/text-url-to-html-link.svg" alt="Coverage">
+    </a>
+    <a href="https://www.npmjs.com/package/text-url-to-html-link">
+        <img src="https://img.shields.io/npm/dw/text-url-to-html-link.svg" alt="Coverage">
+    </a>
+</p>
 
 It's a simple function that fetches all the urls in a string, and transforms them into HTML links (tag <a>)
 
